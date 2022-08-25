@@ -10,4 +10,3 @@ venue: "BMC Genomics"
 pubmedlink: https://pubmed.ncbi.nlm.nih.gov/35410163/
 code: https://github.com/pfenninglab/OCROrthologPrediction
 ---
-We provide a mechanism to annotate tissue-specific regulatory function across hundreds of genomes and to study enhancer evolution using predicted regulatory differences rather than nucleotide-level conservation measurements.
