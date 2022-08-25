@@ -5,7 +5,7 @@ date:   2015-04-24 22:21:59 +00:00
 image:  images/GenomeResearch2015aFig.png
 categories: research
 author: "Irene Kaplow"
-authors: "<strong>Kaplow IM</strong>, MacIsaac JL\*, Mah SM\*, McEwen LM, Kobor MS, Fraser HB"
+authors: "<strong>Kaplow IM</strong>, MacIsaac JL*, Mah SM*, McEwen LM, Kobor MS, Fraser HB"
 venue: "Genome Research"
 pubmedlink: https://pubmed.ncbi.nlm.nih.gov/25910490/
 ---
