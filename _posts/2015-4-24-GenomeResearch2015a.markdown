@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A pooling-based approach to mapping genetic variants associated with DNA methylation."
-date:   2022-04-24 22:21:59 +00:00
+date:   2015-04-24 22:21:59 +00:00
 image:  images/GenomeResearch2015aFig.png
 categories: research
 author: "Irene Kaplow"
