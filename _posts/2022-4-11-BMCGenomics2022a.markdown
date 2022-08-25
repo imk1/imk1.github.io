@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inferring mammalian tissue-specific regulatory conservation by predicting tissue-specific differences in open chromatin"
+title:  "Inferring mammalian tissue-specific regulatory conservation by predicting tissue-specific differences in open chromatin."
 date:   2022-04-11 22:21:59 +00:00
 image:  images/BMCGenomics2022aFig.png
 categories: research
