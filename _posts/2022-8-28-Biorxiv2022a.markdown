@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Relating enhancer genetic variation across 1 mammals to complex phenotypes using machine learning."
+title:  "Relating enhancer genetic variation across mammals to complex phenotypes using machine learning."
 date:   2015-08-28 22:21:59 +00:00
 image:  images/Figure1_tacitOverview8.png
 categories: preprint
 author: "Irene Kaplow"
 authors: "<strong>Kaplow IM*#</strong>, Lawler AJ*, Schäffer DE*, Srinivasan C., Wirthlin ME, Phan BN, Zhang X, Foley K, Prasad K, Brown AR, Zoonomia Project Consortium, Meyer WK, Pfenning AR#"
+preprintlink: https://www.biorxiv.org/content/10.1101/2022.08.26.505436v1
 code: https://github.com/pfenninglab/TACIT
 ---
-A new machine learning-based approach associates enhancers with the 4 evolution of brain size and behavior across mammals.
+A new machine learning-based approach associates enhancers with the evolution of brain size and behavior across mammals.
