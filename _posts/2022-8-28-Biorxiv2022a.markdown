@@ -6,7 +6,6 @@ image:  images/Figure1_tacitOverview8.png
 categories: preprint
 author: "Irene Kaplow"
 authors: "<strong>Kaplow IM*#</strong>, Lawler AJ*, Schäffer DE*, Srinivasan C., Wirthlin ME, Phan BN, Zhang X, Foley K, Prasad K, Brown AR, Zoonomia Project Consortium, Meyer WK, Pfenning AR#"
-venue: "Under review"
 preprintlink: https://www.biorxiv.org/content/10.1101/2022.08.26.505436v1
 code: https://github.com/pfenninglab/TACIT
 ---
