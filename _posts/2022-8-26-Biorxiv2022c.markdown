@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Fine-mapping candidate neurological disease-associated regulatory variants using cell type-aware comparative genomics."
-date:   2015-08-26 22:21:59 +00:00
+date:   2022-08-26 22:21:59 +00:00
 image:  images/Zoonomia_GWAS_figures1E_main.png
 categories: preprint
 author: "Irene Kaplow"
 authors: "Phan BN, Lawler AJ*, He J*, Brown AR*, <strong>Kaplow IM</strong>, Srinivasan C, Fox GA, Chen Z, Wirthlin ME, Zoonomia Project Consortium, Stauffer WR, Pfenning AR"
+venue: "Under review"
 ---
 Regulatory functions conserved across mammals underlying cell type evolution reveal functions of human risk variants.
