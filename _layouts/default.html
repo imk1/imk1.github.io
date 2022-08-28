@@ -62,6 +62,8 @@
               {{post.authors}}
 
               <br>
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              <br>
 			  {% if post.preprintlink %}
               <a href="{{post.preprintlink}}">Preprint link</a>
               {% endif %}
