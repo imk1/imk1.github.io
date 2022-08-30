@@ -4,7 +4,6 @@ title:  "A pooling-based approach to mapping genetic variants associated with DN
 date:   2015-04-24 22:21:59 +00:00
 image:  images/GenomeResearch2015aFig.png
 categories: research
-categories: publication
 author: "Irene Kaplow"
 authors: "<strong>Kaplow IM</strong>, MacIsaac JL*, Mah SM*, McEwen LM, Kobor MS, Fraser HB"
 venue: "Genome Research"
