@@ -4,6 +4,7 @@ title:  "Neural network modeling of differential binding between wild-type and m
 date:   2022-04-12 22:21:59 +00:00
 image:  images/BMCGenomics2022bFig.png
 categories: research
+categories: publication
 author: "Irene Kaplow"
 authors: "<strong>Kaplow IM#</strong>, Banerjee A, Foo CS#"
 venue: "BMC Genomics"
