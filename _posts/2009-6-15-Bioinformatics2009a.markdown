@@ -4,7 +4,7 @@ title:  "A classifier-based approach to identify genetic similarities between di
 date:   2009-6-15 22:21:59 +00:00
 categories: publication
 author: "Irene Kaplow"
-authors: Schaub MA, "<strong>Kaplow IM</strong>, Sirota M, Do CB, Butte AJ, Batzoglou S"
+authors: "Schaub MA, <strong>Kaplow IM</strong>, Sirota M, Do CB, Butte AJ, Batzoglou S"
 venue: "Bioinformatics"
 pubmedlink: https://pubmed.ncbi.nlm.nih.gov/19477990/
 ---
