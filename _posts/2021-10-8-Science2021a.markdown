@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Population-Specific Neuromodulation Prolongs Therapeutic Benefits of Deep Brain Stimulation."
+date:   2021-10-8 22:21:59 +00:00
+categories: publication
+author: "Irene Kaplow"
+authors: "Spix TA, Nanivadekar S, Toong N, <strong>Kaplow IM</strong>, Isett BR, Goksen Y, Pfenning AR, Gittis AH"
+venue: "Science"
+pubmedlink: https://pubmed.ncbi.nlm.nih.gov/34618556/
+code: https://github.com/pfenninglab/Parkinsons_GittisCollab
+---
+We used synaptic differences to excite parvalbumin-expressing external globus pallidus (GPe) neurons and inhibit lim-homeobox-6–expressing GPe neurons simultaneously using brief bursts of electrical stimulation and found that, in dopamine-depleted (DD), circuit-inspired DBS provided long-lasting therapeutic benefits that far exceeded those induced by conventional DBS.
