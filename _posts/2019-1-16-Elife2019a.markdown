@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Fine-mapping cis-regulatory variants in diverse human populations."
+date:   2019-1-16 22:21:59 +00:00
+categories: publication
+author: "Irene Kaplow"
+authors: "Tehranchi A, Hie B, Dacre M, <strong>Kaplow IM</strong>, Pettie K, Combs P, Fraser HB"
+venue: "Elife"
+pubmedlink: https://pubmed.ncbi.nlm.nih.gov/30650056/
+code: https://github.com/TheFraserLab/Hornet/tree/atac-seq-analysis/mapping
+---
+To better understand human cis-regulatory variation, we mapped quantitative trait loci for chromatin accessibility (caQTLs)-a key step in cis-regulation-in 1000 individuals from 10 diverse populations and found that many caQTLs that affect the expression of distal genes also alter the landscape of long-range chromosomal interactions, suggesting a mechanism for long-range expression QTLs.
