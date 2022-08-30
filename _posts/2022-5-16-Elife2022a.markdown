@@ -2,7 +2,7 @@
 layout: post
 title:  "Machine learning sequence prioritization for cell type-specific enhancer design."
 date:   2022-05-16 22:21:59 +00:00
-categories: research
+categories: publication
 author: "Irene Kaplow"
 authors: "Lawler AJ, Ramamurthy E, Brown AR, Shin N, Kim Y, Toong N, <strong>Kaplow IM</strong>, Wirthlin M, Zhang X, Fox G, Wade K, He J, Ozturk BE, Byrne LC, Stauffer WR, Fish KN, Pfenning AR"
 venue: "Elife"
