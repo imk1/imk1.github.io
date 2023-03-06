@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Relating enhancer genetic variation across mammals to complex phenotypes using machine learning."
+date:   2023-03-05 22:21:59 +00:00
+image:  images/Figure1_tacitOverview8.png
+categories: research
+author: "Irene Kaplow"
+authors: "<strong>Kaplow IM*#</strong>, Lawler AJ*, Schäffer DE*, Srinivasan C, Sestili HH, Wirthlin ME, Phan BN, Prasad K, Brown AR, Zhang X, Foley K, Genereux DP, Zoonomia Consortium, Karlsson EK, Lindblad-Toh K, Meyer WK, Pfenning AR#"
+venue: "Science"
+---
+A new machine learning-based approach associates enhancers with the evolution of brain size and behavior across mammals.

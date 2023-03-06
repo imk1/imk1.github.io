@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Evolutionary constraint and innovation across hundreds of placental mammals."
+date:   2023-03-06 22:21:59 +00:00
+image:  images/Fig_1b_TREE.png
+categories: research
+author: "Irene Kaplow"
+authors: "Christmass MJ*, <strong>Kaplow IM*</strong>, Genereux DP, Dong MX, Hughes GM, Li X, Sullivan PF, Hindle AG, Andrews G, Armstrong JC, Bianchi M, Breit AM, Diekhans M, Fanter C, Foley NM, Goodman DB, Goodman L, Keough KC, Kirilenko B, Kowalczyk A, Lawless C, Lind AL, Meadows JRS, Moreira L, Redlich RW, Ryan L, Swofford R, Valenzuela A, Wagner F, Wallerman O, Brown AR, Damas J, Fan K, Gimshaw J, Johnson J, Kozyrev SV, Lawler AJ, Marinescu VD, Morril KM, Osmanski A, Paulat NS, Phan BN, Reilly SK, Schäffer DE, Steiner C, Supple MA, Wilder AP, Wirthlin ME, Xue JR, Zoonomia Consortium, Birren BW, Gazal S, Hubley RM, Koepfli KP, Marques-Bonet T, Meyer WK, Nweeia M, Sabeti PC, Shapiro B, Smit AFA, Springer M, Teeling E, Weng Z, Hiller M, Levesque DL, Lewin HA, Murphy WJ, Navarro A, Paten B, Pollard KS, Ray DA, Ruf I, Ryder OA, Pfenning AR, Lindblad-Toh K#, Karlsson EK#"
+venue: "Science"
+---
+We compare genomes from hundreds of mammal species to explore features conserved by evolution and the origins of exceptional traits.
