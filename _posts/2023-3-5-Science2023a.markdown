@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Relating enhancer genetic variation across mammals to complex phenotypes using machine learning."
-date:   2023-04-28 22:21:59 +00:00
+date:   2023-04-27 22:21:59 +00:00
 image:  images/Figure1_tacitOverview8.png
 categories: research
 author: "Irene Kaplow"
