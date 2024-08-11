@@ -6,7 +6,7 @@ categories: publication
 author: "Irene Kaplow"
 authors: "Wirthlin ME*, Schmid TA*, Elie JE*, Zhang X, Kowalczyk A, Redlich R, Shvareva VA, Rakuljic A, Ji MB, Bhat NS, <strong>Kaplow IM</strong>, Schäffer DE, Lawler AJ, Wang AZ, Phan BN, Annaldasula S, Brown AR, Lu T, Lim BK, Azim E, Zoonomia Consortium, Clark NL, Meyer WK, Pond SLK, Chikina M, Yartsev MM#, Pfenning AR#"
 venue: "Science"
-pubmedlink: 
+pubmedlink: https://pubmed.ncbi.nlm.nih.gov/38422184/
 code:
 ---
 We identify an Egyptian fruit bat brain region involved in vocal learning and use it to find regulatory elements associated with vocal learning evolution in multiple parts of the mammalian phylogenetic tree.
