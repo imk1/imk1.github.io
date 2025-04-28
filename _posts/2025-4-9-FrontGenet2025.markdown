@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "An in vivo systemic massively parallel platform for deciphering animal tissue-specific regulatory function."
+date:   2025-04-09 15:45:00 +00:00
+categories: publication
+author: "Irene Kaplow"
+authors: "•	Brown AR, Fox GA*, <strong>Kaplow IM*</strong>, Lawler AJ, Phan BN, Gadey L, Wirthlin ME, Ramamurthy E, May GE, Chen Z, Su Q, McManus CJ, van der Weerd R, Pfenning AR"
+venue: "Frontiers in Genetics"
+pubmedlink: https://pubmed.ncbi.nlm.nih.gov/40270544/
+code: https://github.com/pfenninglab/sysMPRA
+---
+We present a new method for quantifying enhancer activity across tissues in vivo in which we deliver a massively parallel reporter assay directly into a mouse.
